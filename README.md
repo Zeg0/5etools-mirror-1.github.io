@@ -1,6 +1,16 @@
 
 ## FORK for personal use 07.01.2023 --- 5ETools --- A mirror
 
+```
+npm -v
+npm install --save-dev http-server
+npm install -g http-server
+npm run serve:dev
+```
+http://127.0.0.1:5000/
+
+---------
+
 ## 5e.tools
 
 Visit the [main site](https://5e.tools/index.html) or go to the unofficial GitHub [mirror](index.html).
